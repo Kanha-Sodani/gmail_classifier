@@ -1,4 +1,4 @@
-# Gmail Banking Email Classifier
+# Gmail Classifier
 
 This project is a real-time Gmail classifier that detects and filters banking-related emails using machine learning, the Gmail API, and Google Cloud Pub/Sub.
 
